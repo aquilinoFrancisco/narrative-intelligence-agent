@@ -1,0 +1,15 @@
+[
+  {
+    "_comment": "Phase 1: Placeholder schema — actual mock records added in Phase 2",
+    "id": "narrative_001",
+    "topic": "example_topic",
+    "source": "example_source",
+    "content": "Placeholder narrative content",
+    "sentiment": "neutral",
+    "spread_velocity": 0,
+    "engagement_count": 0,
+    "source_count": 0,
+    "timestamp": "2025-01-01T00:00:00Z",
+    "tags": []
+  }
+]
