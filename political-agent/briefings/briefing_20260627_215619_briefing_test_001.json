@@ -1,0 +1,30 @@
+{
+  "briefing_id": "briefing_test_001",
+  "briefing_type": "alert",
+  "generated_at": "2026-06-27T21:56:19.897156Z",
+  "executive_summary": "Test briefing for MCP layer validation.",
+  "overall_risk_level": "CRITICAL",
+  "overall_risk_score": 0.87,
+  "top_narratives": [
+    "narrative_001",
+    "narrative_005"
+  ],
+  "emerging_narratives": [
+    "narrative_003",
+    "narrative_009"
+  ],
+  "coordination_alerts": [
+    "narrative_005",
+    "narrative_010"
+  ],
+  "recommended_actions": [
+    "Monitor narrative_001 closely.",
+    "Alert senior analyst."
+  ],
+  "monitoring_priorities": [
+    "narrative_001",
+    "narrative_005"
+  ],
+  "analyst_agent": "IntelligenceReporter",
+  "report_path": null
+}
