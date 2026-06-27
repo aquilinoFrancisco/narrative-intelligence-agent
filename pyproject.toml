@@ -6,6 +6,8 @@ requires-python = ">=3.11"
 dependencies = [
     "crewai>=0.80.0",
     "crewai-tools>=0.14.0",
+    "langchain-core>=0.3.0",
     "langchain-openai>=0.2.0",
+    "langgraph>=0.2.0",
     "pydantic>=2.7.0",
 ]
