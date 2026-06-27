@@ -1,15 +1,202 @@
 [
   {
-    "_comment": "Phase 1: Placeholder schema — actual mock records added in Phase 2",
     "id": "narrative_001",
-    "topic": "example_topic",
-    "source": "example_source",
-    "content": "Placeholder narrative content",
+    "topic": "Zarvonia Election Fraud Claims",
+    "sentiment": "negative",
+    "volume": 48200,
+    "growth_rate": 4.7,
+    "virality_score": 0.91,
+    "coordination_score": 0.87,
+    "bot_probability": 0.74,
+    "accounts_pushing": 12400,
+    "suspicious_accounts": 9200,
+    "first_seen": "2025-06-20T06:14:00Z",
+    "peak_hour": "07:00-08:00 UTC",
+    "sample_posts": [
+      "The Zarvonian count was rigged from the start. Demand a recount NOW. #ZarvoniaFraud",
+      "Thousands of ballots never reached counting stations. The regime is covering it up.",
+      "Share before they delete this: Zarvonian officials caught on camera stuffing boxes.",
+      "My neighbour works at the station. She says the numbers don't add up. Spread the truth.",
+      "International observers were blocked from three districts. Ask yourself why. #ZarvoniaFraud"
+    ]
+  },
+  {
+    "id": "narrative_002",
+    "topic": "Falcrest Economic Collapse Imminent",
+    "sentiment": "negative",
+    "volume": 31500,
+    "growth_rate": 2.1,
+    "virality_score": 0.72,
+    "coordination_score": 0.61,
+    "bot_probability": 0.48,
+    "accounts_pushing": 8900,
+    "suspicious_accounts": 4300,
+    "first_seen": "2025-06-18T11:30:00Z",
+    "peak_hour": "12:00-13:00 UTC",
+    "sample_posts": [
+      "Falcrest banks are quietly moving reserves offshore. Insiders are worried.",
+      "The Falcrest central ledger has a 40bn gap that no official will explain.",
+      "People in Falcrest are already emptying ATMs. Mainstream media is silent.",
+      "Three Falcrest hedge funds liquidated all positions this morning. Coincidence?"
+    ]
+  },
+  {
+    "id": "narrative_003",
+    "topic": "Meridar Water Poisoning Cover-up",
+    "sentiment": "negative",
+    "volume": 22800,
+    "growth_rate": 6.3,
+    "virality_score": 0.84,
+    "coordination_score": 0.78,
+    "bot_probability": 0.65,
+    "accounts_pushing": 7600,
+    "suspicious_accounts": 5000,
+    "first_seen": "2025-06-21T02:45:00Z",
+    "peak_hour": "09:00-10:00 UTC",
+    "sample_posts": [
+      "Meridar authorities knew about contamination for six months and said nothing.",
+      "Children in the Nordal district are sick. Officials blame a virus. It's the water.",
+      "Test results from the Meridar reservoir were altered before public release. Documents leaked.",
+      "A Meridar water engineer quit last week. She's been silenced. Find her testimony."
+    ]
+  },
+  {
+    "id": "narrative_004",
+    "topic": "Vespan Unity Treaty Protest Movement",
     "sentiment": "neutral",
-    "spread_velocity": 0,
-    "engagement_count": 0,
-    "source_count": 0,
-    "timestamp": "2025-01-01T00:00:00Z",
-    "tags": []
+    "volume": 15300,
+    "growth_rate": 0.9,
+    "virality_score": 0.38,
+    "coordination_score": 0.22,
+    "bot_probability": 0.11,
+    "accounts_pushing": 4200,
+    "suspicious_accounts": 460,
+    "first_seen": "2025-06-15T14:00:00Z",
+    "peak_hour": "18:00-19:00 UTC",
+    "sample_posts": [
+      "Thousands marched in the Vespan capital today against the Unity Treaty terms.",
+      "Organisers say today's rally was the largest in a decade. Officials dispute the figure.",
+      "The Unity Treaty protesters are diverse — labour groups, students and rural communities."
+    ]
+  },
+  {
+    "id": "narrative_005",
+    "topic": "Calderon Shadow Cabinet Infiltration",
+    "sentiment": "negative",
+    "volume": 41000,
+    "growth_rate": 5.5,
+    "virality_score": 0.88,
+    "coordination_score": 0.92,
+    "bot_probability": 0.80,
+    "accounts_pushing": 13800,
+    "suspicious_accounts": 11000,
+    "first_seen": "2025-06-19T21:00:00Z",
+    "peak_hour": "22:00-23:00 UTC",
+    "sample_posts": [
+      "Four members of the Calderon shadow cabinet have ties to the Solvan Intelligence Directorate.",
+      "Documents confirm foreign placement inside the Calderon opposition leadership. Names incoming.",
+      "This is the biggest story of the decade and the networks won't touch it. Share everywhere.",
+      "The Calderon infiltration is being buried because the media is complicit. Wake up.",
+      "Source inside the parliament confirms: three shadow ministers were recruited abroad."
+    ]
+  },
+  {
+    "id": "narrative_006",
+    "topic": "Norheim Renewable Energy Success",
+    "sentiment": "positive",
+    "volume": 9400,
+    "growth_rate": 0.4,
+    "virality_score": 0.21,
+    "coordination_score": 0.09,
+    "bot_probability": 0.05,
+    "accounts_pushing": 2800,
+    "suspicious_accounts": 140,
+    "first_seen": "2025-06-17T08:00:00Z",
+    "peak_hour": "10:00-11:00 UTC",
+    "sample_posts": [
+      "Norheim hit 94% renewable energy generation for the third consecutive month.",
+      "The Norheim grid transition is being studied by 18 other nations as a model.",
+      "Wind and tidal capacity in Norheim now exceeds peak demand for the first time."
+    ]
+  },
+  {
+    "id": "narrative_007",
+    "topic": "Drenova Military Buildup at Eastern Border",
+    "sentiment": "negative",
+    "volume": 27600,
+    "growth_rate": 3.2,
+    "virality_score": 0.67,
+    "coordination_score": 0.55,
+    "bot_probability": 0.39,
+    "accounts_pushing": 9100,
+    "suspicious_accounts": 3600,
+    "first_seen": "2025-06-16T05:30:00Z",
+    "peak_hour": "06:00-07:00 UTC",
+    "sample_posts": [
+      "Satellite imagery shows Drenova has doubled armoured units at the Karvel pass.",
+      "Residents near the Drenova eastern corridor report convoys moving at night.",
+      "Three independent analysts confirm unusual Drenova logistics activity this week.",
+      "The Drenova Defence Ministry denied the buildup. The footage says otherwise."
+    ]
+  },
+  {
+    "id": "narrative_008",
+    "topic": "Stelvara Surveillance State Expansion",
+    "sentiment": "negative",
+    "volume": 18700,
+    "growth_rate": 1.6,
+    "virality_score": 0.54,
+    "coordination_score": 0.41,
+    "bot_probability": 0.28,
+    "accounts_pushing": 5500,
+    "suspicious_accounts": 1540,
+    "first_seen": "2025-06-14T16:00:00Z",
+    "peak_hour": "20:00-21:00 UTC",
+    "sample_posts": [
+      "Stelvara passed a bill last night granting mass biometric data collection without consent.",
+      "Every Stelvaran transit card now feeds location data to the Interior Ministry.",
+      "A whistleblower inside Stelvara's data bureau says the system is already active."
+    ]
+  },
+  {
+    "id": "narrative_009",
+    "topic": "Portavex Famine Denial",
+    "sentiment": "negative",
+    "volume": 33900,
+    "growth_rate": 7.8,
+    "virality_score": 0.93,
+    "coordination_score": 0.69,
+    "bot_probability": 0.52,
+    "accounts_pushing": 10200,
+    "suspicious_accounts": 5300,
+    "first_seen": "2025-06-22T04:00:00Z",
+    "peak_hour": "05:00-06:00 UTC",
+    "sample_posts": [
+      "Portavex officials deny famine while aid convoys are being turned back at checkpoints.",
+      "Field reports from three NGOs contradict every statement from the Portavex capital.",
+      "Children in the Korda region have had no food distribution for eleven days.",
+      "The Portavex Interior Council voted to classify hunger data as a state secret.",
+      "An aid worker just sent me footage from inside Korda. I cannot describe what I saw."
+    ]
+  },
+  {
+    "id": "narrative_010",
+    "topic": "Albrecht Institute AI Disinformation Programme",
+    "sentiment": "negative",
+    "volume": 14200,
+    "growth_rate": 2.8,
+    "virality_score": 0.62,
+    "coordination_score": 0.83,
+    "bot_probability": 0.71,
+    "accounts_pushing": 6300,
+    "suspicious_accounts": 4470,
+    "first_seen": "2025-06-20T13:00:00Z",
+    "peak_hour": "14:00-15:00 UTC",
+    "sample_posts": [
+      "The Albrecht Institute is running an AI-powered narrative seeding operation across four regions.",
+      "Leaked tender docs show the Institute contracted synthetic persona networks at scale.",
+      "Researchers tracked 800 coordinated accounts back to a single Albrecht infrastructure cluster.",
+      "This is what industrialised disinformation looks like. The Albrecht network is the blueprint."
+    ]
   }
 ]
